@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze *)",
+      "PowerShell(flutter analyze lib/common/widgets/custom_toggle_button_widget.dart lib/features/reels/widgets/reel_card_widget.dart lib/features/reels/screens/add_reel_screen.dart lib/features/category/screens/category_screen.dart 2>&1)",
+      "PowerShell(flutter analyze lib/features/reels/screens/reels_screen.dart 2>&1)",
+      "PowerShell(flutter analyze lib/features/reels/widgets/reel_video_preview_widget.dart 2>&1)",
+      "Bash(flutter --version)",
+      "Bash(flutter pub *)",
+    ]
+  }
+}

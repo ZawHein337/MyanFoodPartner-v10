@@ -1,0 +1,30 @@
+# system
+.DS_Store
+*.log
+*.swp
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+.gradle/
+*.jks
+
+# iOS
+ios/Pods/
+ios/Flutter/ephemeral/
+
+# Laravel
+/vendor/
+.env
+/storage/*.key
